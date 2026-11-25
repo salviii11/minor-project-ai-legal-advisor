@@ -1,0 +1,48 @@
+==================================================================
+SAMPLE REQUESTS FOR POST /ask
+==================================================================
+
+Example 1: Property Law
+{
+  "question": "Can a landlord arbitrarily deduct my full security deposit?"
+}
+
+Example 2: Employment Law
+{
+  "question": "Can my employer terminate me without notice or severance pay?"
+}
+
+Example 3: Contract Law
+{
+  "question": "Is a non-compete clause enforceable after I resign from my job?"
+}
+
+Example 4: Consumer Protection Law
+{
+  "question": "What legal remedy do I have if an e-commerce website refuses a refund for a defective product?"
+}
+
+Example 5: Cyber Law & Financial Fraud
+{
+  "question": "Someone stole money via a fraudulent UPI transaction. What is the immediate legal procedure?"
+}
+
+Example 6: Family Law
+{
+  "question": "What is the procedure for divorce by mutual consent and what is the cooling-off period?"
+}
+
+Example 7: Criminal Law
+{
+  "question": "What is a Zero FIR and what legal remedies do I have if police refuse to register an FIR?"
+}
+
+Example 8: Business Law
+{
+  "question": "What legal remedy do small businesses have for delayed payments under MSME Samadhaan?"
+}
+
+Example 9: Constitutional Law
+{
+  "question": "How do I file a Right to Information (RTI) application and what are the timelines?"
+}
